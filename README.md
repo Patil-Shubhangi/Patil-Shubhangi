@@ -1,4 +1,5 @@
-![logo](https://github.com/Patil-Shubhangi/Patil-Shubhangii/tree/main/GitHub/GitPic.png)
+
+![logo](https://github.com/Patil-Shubhangi/Patil-Shubhangi/blob/main/GitHub/GitPic.png)
 <h1 align="center">Hi 👋, I'm Shubhangi Patil</h1>
 <h3 align="center">A Passionate full Stack Web developer from India</h3>
 
